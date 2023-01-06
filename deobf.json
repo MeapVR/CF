@@ -1,0 +1,9 @@
+{
+	"gameSlug": "vrchat",
+	"gameName": "VRChat",
+	"mappingUrl": "https://github.com/MeapVR/CF/raw/main/1.1.8.csv.gz",
+	"mappingFileSHA512": "c2d3f47866288c2f270ba38cce4da93ab19e9e1f561d85ceb5a72fc6c8d994da3a0476793bac9a7295adfc3e2446652e8b0dc2bc47183807d9a53e7c5516cc9f",
+	"forceCpp2IlVersion": null,
+	"forceUnhollowerVersion": null,
+	"obfuscationRegex": null
+}
