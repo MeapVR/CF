@@ -1,0 +1,7 @@
+{
+    "forceCpp2IlVersion": "2022.1.0-pre-release.8",
+    "forceUnhollowerVersion": "0.4.18.0",
+    "obfuscationRegex": null,
+    "mappingUrl": "https://raw.githubusercontent.com/MeapVR/CF/main/RenameMap.csv.gz",
+    "mappingFileSHA512": "25dbc63980dbf611e946e58b1c64e36e7220f33d94beb01b9045436ecff8f9c159e0ae652599efac0d5cb47feb1c1cb3006af7fc98b597ee31eb5140a8735f85"
+}
